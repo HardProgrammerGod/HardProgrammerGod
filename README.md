@@ -1,6 +1,6 @@
   <summary><h2><b>📚 Tech stack</b></h2></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,html,css,mongo,vscode,pycharm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,html,css,mongo&perline=7" />
   </p>
 </details>
 
