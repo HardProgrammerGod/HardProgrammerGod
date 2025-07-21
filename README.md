@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=HardProgrammerGod&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+ 
  <summary><h2><b>📚 Tech stack</b></h2></summary>
   <p>
     <img src="https://skillicons.dev/icons?i=py,cpp,js,react,html,css,mongo&perline=7" />
