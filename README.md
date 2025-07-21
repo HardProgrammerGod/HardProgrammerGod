@@ -1,5 +1,3 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=HardProgrammerGod)
-
  <summary><h2><b>📚 Tech stack</b></h2></summary>
   <p>
     <img src="https://skillicons.dev/icons?i=py,cpp,js,react,html,css,mongo&perline=7" />
