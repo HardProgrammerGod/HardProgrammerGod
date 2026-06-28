@@ -30,14 +30,14 @@ Welcome to the environment. I design and implement scalable backend infrastructu
 ### ⚙️ Engineering Environment
 
 
-💾 Operating Systems : macOS / Linux (Ubuntu/Debian)
-💻 Core Toolchain     : Terminal (Zsh) / VS Code / Git
-🛠️ Architecture       : OOP / Microservices / Event-Driven / Clean Code
+💾 Operating Systems : macOS / Linux(Ubuntu);
+💻 Core Toolchain     : Terminal (Zsh) / VS Code / Git;
+🛠️ Architecture       : OOP / Microservices / Event-Driven / Clean Code;
 
 ---
 ### 🗣️ Languages
-Ukrainian — Native
-Russian — Fluent
-English — Professional Working Proficiency (B2/C1)
-German — Intermediate
-French — Elementary
+Ukrainian — Native;
+Russian — Fluent;
+English — Professional Working Proficiency (B2/C1);
+German — Intermediate(+);
+French — Elementary;
