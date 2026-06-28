@@ -1,26 +1,43 @@
 # ⛓️ HardProgrammerGod
-> Software Engineer | Backend & Automation Developer
 
-Welcome to my workspace. I specialize in building high-performance applications, workflow automation, and exploring low-level and decentralized systems.
+> **Software Engineer | Backend, Automation & Systems Developer**
+> *Focusing on high-performance architecture, decentralized systems, and advanced automation pipelines.*
+
+---
+
+### 🌐 Overview
+
+Welcome to the environment. I design and implement scalable backend infrastructures, custom workflow automation, and explore decentralized systems with a strong emphasis on code performance, optimization, and structural aesthetics.
+
+* **⚡ Current Focus:** System Architecture • Blockchain & Smart Contracts (dApps) • High-Performance Automation • Data Pipelines
 
 ---
 
 ### 📚 Tech Stack
 
-**Languages & Core:**
+**Core Languages & Systems:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,rust,cpp&perline=7" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,rust,cpp,sql,ts,bash&theme=dark" alt="Core Languages" />
 </p>
 
-**Web & Databases:**
+**Frameworks, Web & Infrastructure:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mongodb&perline=7" alt="Web and DB" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mongodb,git,docker,linux&theme=dark" alt="Infrastructure" />
 </p>
 
 ---
 
-### ⚙️ Tools & Environment
-* **OS:** Linux / Windows
-* **Environment:** VS Code / Terminal
-* **Focus:** System Architecture, Automation, Web Performance, Blockchain
+### ⚙️ Engineering Environment
 
+
+💾 Operating Systems : macOS / Linux (Ubuntu/Debian)
+💻 Core Toolchain     : Terminal (Zsh) / VS Code / Git
+🛠️ Architecture       : OOP / Microservices / Event-Driven / Clean Code
+
+---
+### 🗣️ Languages
+Ukrainian — Native
+Russian — Fluent
+English — Professional Working Proficiency (B2/C1)
+German — Intermediate
+French — Elementary
