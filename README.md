@@ -17,7 +17,7 @@ Welcome to the environment. I design and implement scalable backend infrastructu
 
 **Core Languages & Systems:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,rust,cpp,sql,ts,bash&theme=dark" alt="Core Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,rust,cpp,ts,bash&theme=dark" alt="Core Languages" />
 </p>
 
 **Frameworks, Web & Infrastructure:**
