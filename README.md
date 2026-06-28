@@ -36,3 +36,9 @@ Welcome to my workspace. I specialize in building high-performance applications,
 * **OS:** Linux / Windows
 * **Environment:** VS Code / Terminal
 * **Focus:** System Architecture, OSINT, Automation, Web Performance
+
+### 📊 My stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HardProgrammerGod&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="Lines of Code & Stats" />
+</p>
