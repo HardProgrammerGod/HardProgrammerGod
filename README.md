@@ -1,43 +1,25 @@
-# ⛓️ HardProgrammerGod
+# > HardProgrammerGod_
 
-> **Software Engineer | Backend, Automation & Systems Developer**
-> *Focusing on high-performance architecture, decentralized systems, and advanced automation pipelines.*
-
----
-
-### 🌐 Overview
-
-Welcome to the environment. I design and implement scalable backend infrastructures, custom workflow automation, and explore decentralized systems with a strong emphasis on code performance, optimization, and structural aesthetics.
-
-* **⚡ Current Focus:** System Architecture • Blockchain & Smart Contracts (dApps) • High-Performance Automation • Data Pipelines
+`STATUS: BUILDING` | `LOC: KYIV / VIENNA / REMOTE` | `FOCUS: BACKEND`
 
 ---
 
-### 📚 Tech Stack
+### // About
+Software Engineer focused on performance over hype — clean architecture, async pipelines, zero bloat.
 
-**Core Languages & Systems:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,rust,cpp,ts,bash&theme=dark" alt="Core Languages" />
-</p>
+- **Production Apps:** Built & scaling a workout tracker (**800+ active users**) and an international exam-prep platform (**200+ active students** across multiple countries)
+- **Hackathons:** 1st Place @ Blockchain Hackathon • 2nd Place @ Regional Hackathon (*Debug Hero*)
+- **Shipping:** High-throughput bots & APIs (`Python / FastAPI / Redis`), dApps & smart contracts (`Solidity / Rust`), system tooling (`Rust / C++ / Go`)
 
-**Frameworks, Web & Infrastructure:**
+---
+
+### // Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mongodb,git,docker,linux&theme=dark" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,rust,cpp,go,solidity,bash,fastapi,nodejs,react,postgres,mongodb,redis,supabase,docker,nginx,linux,git&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-### ⚙️ Engineering Environment
-
-
-💾 Operating Systems : macOS / Linux(Ubuntu);
-💻 Core Toolchain     : Terminal (Zsh) / VS Code / Git;
-🛠️ Architecture       : OOP / Microservices / Event-Driven / Clean Code;
-
----
-### 🗣️ Languages
-Ukrainian — Native;
-Russian — Fluent;
-English — Professional Working Proficiency (B2/C1);
-German — Upper-Intermediate(B2);
-French — Elementary(Baguette2);
+### // Setup & Spoken
+- **Env:** macOS / Ubuntu • Zsh • VS Code • Event-Driven & Microservices
+- **Languages:** UA (Native) • RU (Fluent) • EN (B2/C1) • DE (B2) • FR (bAguette2)
