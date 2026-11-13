@@ -39,5 +39,5 @@ Welcome to the environment. I design and implement scalable backend infrastructu
 Ukrainian — Native;
 Russian — Fluent;
 English — Professional Working Proficiency (B2/C1);
-German — Intermediate(+);
-French — Elementary;
+German — Upper-Intermediate(B2);
+French — Elementary(Baguette2);
